@@ -16,5 +16,5 @@ With m set to 19, provide output on D2L of the finger tables for the following i
 
 Note that the grading of your program might be done using different identifiers.
 
-SOLUTION:
-![image](https://github.com/DWright91/Distributed-Hashing/assets/94549091/15c2d57d-5b2a-4738-b233-75b65a749f58)
+------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: ![image](https://github.com/DWright91/Distributed-Hashing/assets/94549091/15c2d57d-5b2a-4738-b233-75b65a749f58)
